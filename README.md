@@ -4,7 +4,7 @@
 
 A fast, aggressive roguelite duel game that runs in your browser. Sekiro-style deflects and posture breaks meet Noita-style sigil chains you inscribe on your blade, with Brotato-style builds that change every run.
 
-▶ **Play it here: https://OWNER.github.io/REPO/**
+▶ **Play it here: https://averageasher1-creator.github.io/Sigilblade/**
 
 No install, no account. It's a single HTML file, so you can also download `index.html` and open it offline.
 
